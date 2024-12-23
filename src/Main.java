@@ -2,7 +2,7 @@ import java.util.*;
 
 // Müşteri sınıfı
 class Musteri {
-    int musteriID;git
+    int musteriID;
     String isim;
     String soyisim;
     LinkedList<Gonderi> gonderiGecmisi;
